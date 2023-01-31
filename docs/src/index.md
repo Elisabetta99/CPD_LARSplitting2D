@@ -1,15 +1,9 @@
 # Informazioni generali
 
-Progetto **LARSplitting2D** per il corso di **Calcolo Parallelo e Distribuito 2022** svolto dal **Gruppo 5.a** composto da:
+Il progetto **LARSplitting2D** è stato realizzato per il corso di **Calcolo Parallelo e Distribuito** *A.A 2021/2022*, svolto da **Castagnacci Giulia** e **Giordano Elisabetta**. Il repository contiene una serie di papers, notebook e graph algorithms progettati in Julia seguendo un tipico approccio di algebra lineare. Le librerie utilizzate all'interno del progetto sono: ViewerGL.jl, LinearAlgebraRepresentation.jl
 
-| Nome| Matricola | E-mail |
-|:---|:---|:---|
-|Elisabetta Giordano|536265|eli.giordano3@stud.uniroma3.it|
-|Giulia Castagnacci|581749|giu.castagnacci@stud.uniroma3.it|
-
-Link al repository GitHub: [https://github.com/GiuliaCastagnacci/LARSplitting2D.git](https://github.com/GiuliaCastagnacci/LARSplitting2D.git)
-
-Link ai notebooks: [https://github.com/GiuliaCastagnacci/LARSplitting2D/tree/main/notebooks](https://github.com/GiuliaCastagnacci/LARSplitting2D/tree/main/notebooks)
+* Link al repository GitHub: [https://github.com/Elisabetta99/LARSplitting2D](https://github.com/Elisabetta99/LARSplitting2D)
+* Link ai notebooks: [https://github.com/Elisabetta99/LARSplitting2D/tree/main/notebooks](https://github.com/Elisabetta99/LARSplitting2D/tree/main/notebooks)
 
 # Indice
 
