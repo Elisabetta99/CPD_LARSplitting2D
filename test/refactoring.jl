@@ -1,7 +1,3 @@
-#------------------------------------------------------------------------
-#	Gruppo 5.a: Castagnacci Giulia (581749), Giordano Elisabetta (536265)
-#------------------------------------------------------------------------
-
 using Test
 using LinearAlgebraicRepresentation
 Lar = LinearAlgebraicRepresentation
