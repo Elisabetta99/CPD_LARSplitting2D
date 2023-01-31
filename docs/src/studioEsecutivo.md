@@ -1,5 +1,6 @@
 # Studio Esecutivo Progetto LAR Splitting 2D
-Gruppo: 5.a -- Castagnacci Giulia 581749, Giordano Elisabetta 536265
+Gruppo: 5.a -- Castagnacci Giulia, Giordano Elisabetta
+
 20 maggio 2022
 
 
