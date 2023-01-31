@@ -1,5 +1,6 @@
 # Studio Definitivo Progetto LAR Splitting 2D
 Gruppo: 5.a -- Castagnacci Giulia, Giordano Elisabetta 
+
 03 giugno 2022
 
  
